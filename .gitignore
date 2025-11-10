@@ -1,0 +1,5 @@
+.venv
+src/merged_data.csv
+src/final_merged_data.csv
+data/*.csv
+src/*.csv
